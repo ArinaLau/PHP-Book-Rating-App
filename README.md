@@ -1,2 +1,2 @@
 # PHP-Book-Rating-App
-Simple Book Rating App using PHP Forms
+This is a simple book rating app created using PHP Forms and it has CRUD functionality.
